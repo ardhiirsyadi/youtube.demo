@@ -38,6 +38,7 @@ public class HelloWorldActivity extends Activity {
 				Intent intent = new Intent(HelloWorldActivity.this, NumberListActivity.class);
 			    startActivity(intent);      
 	            finish();
+	            System.out.println("test git!!!");
 				
 
 			}
