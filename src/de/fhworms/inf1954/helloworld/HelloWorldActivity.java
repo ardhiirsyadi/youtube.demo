@@ -39,7 +39,7 @@ public class HelloWorldActivity extends Activity {
 			    startActivity(intent);      
 	            finish();
 	            System.out.println("test git!!!");
-				
+				System.out.println("test lagi");
 
 			}
 		});
